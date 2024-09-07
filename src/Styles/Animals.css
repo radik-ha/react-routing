@@ -1,0 +1,43 @@
+.animals {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.animals button {
+	background-color: green;
+	color: lightgreen;
+	padding: 0.5rem;
+	margin: 0.5rem;
+	width: 8vw;
+	height: 2.3vw;
+	font-size: 1.2vw;
+	font-weight: bold;
+	border-radius: 1rem;
+	border: none;
+	text-decoration: none;
+	transition: 0.03s;
+}
+
+.animals button:hover {
+	width: 9vw;
+	height: 2.7vw;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

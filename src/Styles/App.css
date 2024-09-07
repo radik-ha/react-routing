@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+*{
+	font-family: "Noto Sans", sans-serif;
+}
+
+body {
+	background-color: lightgreen;
+}
+
+.first img {
+    border-radius: 50%;
+    width: 20%;
+    margin-left: 40%;
+    border: 6px solid green;
+}
+
+.first h1 {
+	color: green;
+	font-size: 3vw;
+	text-align: center;
+}
+
+.first p {
+    font-size: 2vw;
+    display: flex;
+    text-align: justify;
+    margin: 1rem;
+}
